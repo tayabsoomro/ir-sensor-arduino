@@ -11,6 +11,13 @@ Here you go!
 ![alt text](https://i.gyazo.com/2c26213da5760ada7ff73bb0c881da72.png "Circuit Diagram")
 
 
+#### YouTube
+
+Here's a YouTube video demonstrating my work.
+
+[![IR Sensor Arduino](http://img.youtube.com/vi/hlxiOAHcBqM/0.jpg)](http://www.youtube.com/watch?v=hlxiOAHcBqM)
+
+
 
 #### Credits
 
