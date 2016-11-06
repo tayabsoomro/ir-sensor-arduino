@@ -8,6 +8,7 @@ int green = 12;
 // IR sensor
 int RECV_PIN = 7;
 
+// Is the bulb one?
 bool on = false;
 
 
